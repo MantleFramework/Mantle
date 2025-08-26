@@ -1,2 +1,1 @@
-# Mantle
-Paypal Bugbounty POC by @nvk0x
+# Paypal Bugbounty POC by @nvk0x
